@@ -4,6 +4,6 @@
 
 ## Yosys commands for gate level synthesis using SKY130 process node and PDK
 ```
-read_verilog SmartCore_semi_usr.v
-synth -top SmartCore_semi_usr
+read_verilog usr.v
+synth -top usr
 ```
